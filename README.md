@@ -10,7 +10,7 @@ Code : Koleksibot
 
 > cd Report_FB
 
-> python Report.py
+> python2 Report.py
 
 # Demo ⬇
 
